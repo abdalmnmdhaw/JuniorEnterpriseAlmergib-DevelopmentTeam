@@ -1,0 +1,10 @@
+{
+    "name": "ali",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "router\\":"./router",
+            "src\\":"./src"
+        }
+    }
+}
